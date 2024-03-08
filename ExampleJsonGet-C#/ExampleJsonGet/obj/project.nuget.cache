@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Acqha00kIB54KlGaDUZ6QkLpwRoS3KZORGTMdMTf+5wB2w/ERuxNsm9eUfTAfsllpUfAkb7hkD/9lkXVaJBx5A==",
+  "success": true,
+  "projectFilePath": "C:\\OnTerra\\RouteSavvyServiceJson\\Samples\\Example-RouteSavvyJsonAPI\\ExampleJsonGet-C#\\ExampleJsonGet\\ExampleJsonGet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\randy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

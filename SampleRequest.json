@@ -1,0 +1,81 @@
+{
+	"Locations": [{
+		"Name": "Customer A",
+		"Latitude": 39.595140,
+		"Longitude": -104.849620,
+		"VisitDurationInMinutes": 10
+	},
+	{
+		"Name": "Customer B",
+		"Latitude": 39.558012,
+		"Longitude": -104.906670,
+		"VisitDurationInMinutes": 5
+	},
+	{
+		"Name": "Customer C",
+		"Latitude": 39.566128,
+		"Longitude": -104.965901,
+		"VisitDurationInMinutes": 10
+	},
+	{
+		"Name": "Customer D",
+		"Latitude": 39.535220,
+		"Longitude": -104.882080,
+		"VisitDurationInMinutes": 10
+	},
+	{
+		"Name": "Customer D2",
+		"Latitude": 39.535220,
+		"Longitude": -104.882080,
+		"VisitDurationInMinutes": 10
+	},
+	{
+		"Name": "Customer E",
+		"Latitude": 39.555669,
+		"Longitude": -104.882878,
+		"VisitDurationInMinutes": 5
+	},
+	{
+		"Name": "Customer F",
+		"Latitude": 39.595030,
+		"Longitude": -104.804320,
+		"VisitDurationInMinutes": 5
+	},
+	{
+		"Name": "Customer G",
+		"Latitude": 39.624000,
+		"Longitude": -104.896010,
+		"VisitDurationInMinutes": 5
+	},
+	{
+		"Name": "Customer H",
+		"Latitude": 39.538212,
+		"Longitude": -104.860457,
+		"VisitDurationInMinutes": 10
+	},
+	{
+		"Name": "Customer I",
+		"Latitude": 39.534298,
+		"Longitude": -104.790182,
+		"VisitDurationInMinutes": 10
+	},
+	{
+		"Name": "Customer J",
+		"Latitude": 39.536745,
+		"Longitude": -104.856546,
+		"VisitDurationInMinutes": 5
+	},
+	{
+		"Name": "Customer K",
+		"Latitude": 39.567508,
+		"Longitude": -104.923069,
+		"VisitDurationInMinutes": 5
+	}],
+	"OptimizeParameters": {
+		"AppId": "<Your AppId goes here>",
+		"OptimizeType": "distance",
+		"RouteType": "basic",
+		"Avoid": "none",
+		"Departure": "2020-05-23T17:00:00"
+	}
+}
