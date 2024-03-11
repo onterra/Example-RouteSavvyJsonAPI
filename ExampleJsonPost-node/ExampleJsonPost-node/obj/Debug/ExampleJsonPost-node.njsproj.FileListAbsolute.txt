@@ -1,0 +1,3 @@
+C:\OnTerra\RouteSavvyServiceJson\Example-RouteSavvyJsonAPI\ExampleJsonPost-node\ExampleJsonPost-node\obj\Debug\ExampleJsonPost-node.njsproj.AssemblyReference.cache
+C:\OnTerra\RouteSavvyServiceJson\Example-RouteSavvyJsonAPI\ExampleJsonPost-node\ExampleJsonPost-node\obj\Debug\ExampleJsonPost-node.njsproj.CoreCompileInputs.cache
+C:\OnTerra\RouteSavvyServiceJson\Example-RouteSavvyJsonAPI\ExampleJsonPost-node\ExampleJsonPost-node\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\OnTerra\\RouteSavvyServiceJson\\Samples\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-C#\\ExampleJsonPost\\ExampleJsonPost.csproj": {}
+    "C:\\OnTerra\\RouteSavvyServiceJson\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-C#\\ExampleJsonPost\\ExampleJsonPost.csproj": {}
   },
   "projects": {
-    "C:\\OnTerra\\RouteSavvyServiceJson\\Samples\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-C#\\ExampleJsonPost\\ExampleJsonPost.csproj": {
+    "C:\\OnTerra\\RouteSavvyServiceJson\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-C#\\ExampleJsonPost\\ExampleJsonPost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OnTerra\\RouteSavvyServiceJson\\Samples\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-C#\\ExampleJsonPost\\ExampleJsonPost.csproj",
+        "projectUniqueName": "C:\\OnTerra\\RouteSavvyServiceJson\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-C#\\ExampleJsonPost\\ExampleJsonPost.csproj",
         "projectName": "ExampleJsonPost",
-        "projectPath": "C:\\OnTerra\\RouteSavvyServiceJson\\Samples\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-C#\\ExampleJsonPost\\ExampleJsonPost.csproj",
+        "projectPath": "C:\\OnTerra\\RouteSavvyServiceJson\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-C#\\ExampleJsonPost\\ExampleJsonPost.csproj",
         "packagesPath": "C:\\Users\\randy\\.nuget\\packages\\",
-        "outputPath": "C:\\OnTerra\\RouteSavvyServiceJson\\Samples\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-C#\\ExampleJsonPost\\obj\\",
+        "outputPath": "C:\\OnTerra\\RouteSavvyServiceJson\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-C#\\ExampleJsonPost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -37,6 +37,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -54,7 +59,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -63,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

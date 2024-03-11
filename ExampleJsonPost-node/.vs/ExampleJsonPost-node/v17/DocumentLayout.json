@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OnTerra\\RouteSavvyServiceJson\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-node\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94D79CAF-E020-498C-9261-94A617555C9C}|ExampleJsonPost-node\\ExampleJsonPost-node.njsproj|C:\\OnTerra\\RouteSavvyServiceJson\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-node\\ExampleJsonPost-node\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{94D79CAF-E020-498C-9261-94A617555C9C}|ExampleJsonPost-node\\ExampleJsonPost-node.njsproj|solutionrelative:ExampleJsonPost-node\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D79CAF-E020-498C-9261-94A617555C9C}|ExampleJsonPost-node\\ExampleJsonPost-node.njsproj|C:\\OnTerra\\RouteSavvyServiceJson\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-node\\ExampleJsonPost-node\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94D79CAF-E020-498C-9261-94A617555C9C}|ExampleJsonPost-node\\ExampleJsonPost-node.njsproj|solutionrelative:ExampleJsonPost-node\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D79CAF-E020-498C-9261-94A617555C9C}|ExampleJsonPost-node\\ExampleJsonPost-node.njsproj|ExampleJsonPost-node.njsproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\OnTerra\\RouteSavvyServiceJson\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-node\\ExampleJsonPost-node\\package.json",
+              "RelativeDocumentMoniker": "ExampleJsonPost-node\\package.json",
+              "ToolTip": "C:\\OnTerra\\RouteSavvyServiceJson\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-node\\ExampleJsonPost-node\\package.json",
+              "RelativeToolTip": "ExampleJsonPost-node\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T14:36:02.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExampleJsonPost-node",
+              "DocumentMoniker": "C:\\OnTerra\\RouteSavvyServiceJson\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-node\\ExampleJsonPost-node\\ExampleJsonPost-node.njsproj",
+              "RelativeDocumentMoniker": "ExampleJsonPost-node\\ExampleJsonPost-node.njsproj",
+              "ToolTip": "C:\\OnTerra\\RouteSavvyServiceJson\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-node\\ExampleJsonPost-node\\ExampleJsonPost-node.njsproj",
+              "RelativeToolTip": "ExampleJsonPost-node\\ExampleJsonPost-node.njsproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001645|",
+              "WhenOpened": "2024-03-09T22:07:28.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\OnTerra\\RouteSavvyServiceJson\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-node\\ExampleJsonPost-node\\app.js",
+              "RelativeDocumentMoniker": "ExampleJsonPost-node\\app.js",
+              "ToolTip": "C:\\OnTerra\\RouteSavvyServiceJson\\Example-RouteSavvyJsonAPI\\ExampleJsonPost-node\\ExampleJsonPost-node\\app.js",
+              "RelativeToolTip": "ExampleJsonPost-node\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-09T22:05:03.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "example-json-post-node",
+  "version": "0.0.0",
+  "description": "ExampleJsonPost-node",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {},
+  "eslintConfig": {},
+  "dependencies": {
+    "cross-fetch": "^4.0.0",
+    "eslint": "^8.57.0",
+    "graceful-fs": "^4.2.11",
+    "jshint": "^2.13.6"
+  }
+}
