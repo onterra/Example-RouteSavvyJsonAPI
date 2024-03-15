@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ExampleJsonGet-C#\\ExampleJsonGet",
+    "\\ExampleJsonPost-C#",
+    "\\ExampleJsonPost-C#\\ExampleJsonPost"
   ],
+  "SelectedNode": "\\ExampleJsonPost-C#\\ExampleJsonPost\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
