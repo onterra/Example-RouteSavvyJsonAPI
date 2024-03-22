@@ -32,36 +32,38 @@ class Program
             string requestUrl = $"{baseUrl}{requestStr}";
 
             using (HttpClient client = new HttpClient())
-            using (HttpResponseMessage response = await client.GetAsync(requestUrl))
             {
-                response.EnsureSuccessStatusCode();
-
-                string responseBody = await response.Content.ReadAsStringAsync();
-                Resultobject Resultobject = JsonConvert.DeserializeObject<Resultobject>(responseBody);
-
-                dynamic jsonObject = JsonConvert.DeserializeObject(responseBody);
-
-                // Access properties of the dynamic object
-                string message = jsonObject.Message;
-
-                if (message != null && message != "Success")
+                using (HttpResponseMessage response = await client.GetAsync(requestUrl))
                 {
-                    Console.WriteLine($"An error occurred: {message}");
-                }
-                else
-                {
-                    try
+                    response.EnsureSuccessStatusCode();
+
+                    string responseBody = await response.Content.ReadAsStringAsync();
+                    Resultobject Resultobject = JsonConvert.DeserializeObject<Resultobject>(responseBody);
+
+                    dynamic jsonObject = JsonConvert.DeserializeObject(responseBody);
+
+                    // Access properties of the dynamic object
+                    string message = jsonObject.Message;
+
+                    if (message != null && message != "Success")
                     {
-                        JToken token = JToken.Parse(responseBody);
-                        string outputJson = JObject.Parse(token.ToString(Newtonsoft.Json.Formatting.Indented)).ToString();
-
-                        File.WriteAllText(outFilePath, outputJson);
-                        Console.WriteLine("Success");
-                        Console.WriteLine(outputJson);
+                        Console.WriteLine($"An error occurred: {message}");
                     }
-                    catch (Exception ex)
+                    else
                     {
-                        Console.WriteLine($"An error occurred: {ex.Message}");
+                        try
+                        {
+                            JToken token = JToken.Parse(responseBody);
+                            string outputJson = JObject.Parse(token.ToString(Newtonsoft.Json.Formatting.Indented)).ToString();
+
+                            File.WriteAllText(outFilePath, outputJson);
+                            Console.WriteLine("Success");
+                            Console.WriteLine(outputJson);
+                        }
+                        catch (Exception ex)
+                        {
+                            Console.WriteLine($"An error occurred: {ex.Message}");
+                        }
                     }
                 }
             }

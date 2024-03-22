@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExampleJsonGet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9faf891c431050214194cc07cd0cda012752ca5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90aed0160f6545e3df61cd94962fcdd15ea02fe1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExampleJsonGet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExampleJsonGet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

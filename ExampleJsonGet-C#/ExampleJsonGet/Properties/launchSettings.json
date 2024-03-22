@@ -2,7 +2,7 @@
   "profiles": {
     "ExampleJsonGet": {
       "commandName": "Project",
-      "commandLineArgs": "C:\\OnTerra\\RouteSavvyServiceJson\\SampleRequest.json C:\\OnTerra\\RouteSavvyServiceJson\\SampleResult.json"
+      "commandLineArgs": "\"..\\..\\..\\..\\..\\SampleRequest.json\" \"..\\..\\..\\..\\..\\SampleResult.json\" "
     }
   }
 }

@@ -1,0 +1,1416 @@
+{
+  "Message": "Success",
+  "OptimizedStops": [
+    {
+      "Arrival": null,
+      "Departure": "17:00:00 3/22/2024",
+      "Distance": null,
+      "Duration": null,
+      "IsDuplicate": false,
+      "Name": "Customer A",
+      "RouteLocation": {
+        "Latitude": 39.59514,
+        "Longitude": -104.84962
+      },
+      "StopTimeMinutes": 10
+    },
+    {
+      "Arrival": "17:05:54 3/22/2024",
+      "Departure": "17:10:54 3/22/2024",
+      "Distance": "4.26 miles (6.86 km)",
+      "Duration": "5 minutes, 54 seconds",
+      "IsDuplicate": false,
+      "Name": "Customer G",
+      "RouteLocation": {
+        "Latitude": 39.624,
+        "Longitude": -104.89601
+      },
+      "StopTimeMinutes": 5
+    },
+    {
+      "Arrival": "17:26:19 3/22/2024",
+      "Departure": "17:31:19 3/22/2024",
+      "Distance": "7.35 miles (11.82 km)",
+      "Duration": "15 minutes, 25 seconds",
+      "IsDuplicate": false,
+      "Name": "Customer F",
+      "RouteLocation": {
+        "Latitude": 39.59503,
+        "Longitude": -104.80432
+      },
+      "StopTimeMinutes": 5
+    },
+    {
+      "Arrival": "17:43:01 3/22/2024",
+      "Departure": "17:53:01 3/22/2024",
+      "Distance": "6.08 miles (9.78 km)",
+      "Duration": "11 minutes, 42 seconds",
+      "IsDuplicate": false,
+      "Name": "Customer I",
+      "RouteLocation": {
+        "Latitude": 39.534298,
+        "Longitude": -104.790182
+      },
+      "StopTimeMinutes": 10
+    },
+    {
+      "Arrival": "17:58:11 3/22/2024",
+      "Departure": "18:03:11 3/22/2024",
+      "Distance": "3.62 miles (5.83 km)",
+      "Duration": "5 minutes, 10 seconds",
+      "IsDuplicate": false,
+      "Name": "Customer J",
+      "RouteLocation": {
+        "Latitude": 39.536745,
+        "Longitude": -104.856546
+      },
+      "StopTimeMinutes": 5
+    },
+    {
+      "Arrival": "18:04:16 3/22/2024",
+      "Departure": "18:14:16 3/22/2024",
+      "Distance": "0.44 miles (0.70 km)",
+      "Duration": "1 minutes, 5 seconds",
+      "IsDuplicate": false,
+      "Name": "Customer H",
+      "RouteLocation": {
+        "Latitude": 39.538212,
+        "Longitude": -104.860457
+      },
+      "StopTimeMinutes": 10
+    },
+    {
+      "Arrival": "18:18:24 3/22/2024",
+      "Departure": "18:28:24 3/22/2024",
+      "Distance": "1.40 miles (2.25 km)",
+      "Duration": "4 minutes, 8 seconds",
+      "IsDuplicate": false,
+      "Name": "Customer D",
+      "RouteLocation": {
+        "Latitude": 39.53522,
+        "Longitude": -104.88208
+      },
+      "StopTimeMinutes": 10
+    },
+    {
+      "Arrival": "18:28:24 3/22/2024",
+      "Departure": "18:38:24 3/22/2024",
+      "Distance": "0.00 miles (0.00 km)",
+      "Duration": "0 seconds",
+      "IsDuplicate": true,
+      "Name": "Customer D2",
+      "RouteLocation": {
+        "Latitude": 39.53522,
+        "Longitude": -104.88208
+      },
+      "StopTimeMinutes": 10
+    },
+    {
+      "Arrival": "18:42:20 3/22/2024",
+      "Departure": "18:47:20 3/22/2024",
+      "Distance": "1.67 miles (2.69 km)",
+      "Duration": "3 minutes, 56 seconds",
+      "IsDuplicate": false,
+      "Name": "Customer E",
+      "RouteLocation": {
+        "Latitude": 39.555669,
+        "Longitude": -104.882878
+      },
+      "StopTimeMinutes": 5
+    },
+    {
+      "Arrival": "18:51:15 3/22/2024",
+      "Departure": "18:56:15 3/22/2024",
+      "Distance": "1.68 miles (2.70 km)",
+      "Duration": "3 minutes, 55 seconds",
+      "IsDuplicate": false,
+      "Name": "Customer B",
+      "RouteLocation": {
+        "Latitude": 39.558012,
+        "Longitude": -104.90667
+      },
+      "StopTimeMinutes": 5
+    },
+    {
+      "Arrival": "19:08:54 3/22/2024",
+      "Departure": "19:18:54 3/22/2024",
+      "Distance": "4.93 miles (7.93 km)",
+      "Duration": "12 minutes, 39 seconds",
+      "IsDuplicate": false,
+      "Name": "Customer C",
+      "RouteLocation": {
+        "Latitude": 39.566128,
+        "Longitude": -104.965901
+      },
+      "StopTimeMinutes": 10
+    },
+    {
+      "Arrival": "19:23:02 3/22/2024",
+      "Departure": "19:28:02 3/22/2024",
+      "Distance": "2.39 miles (3.84 km)",
+      "Duration": "4 minutes, 8 seconds",
+      "IsDuplicate": false,
+      "Name": "Customer K",
+      "RouteLocation": {
+        "Latitude": 39.567508,
+        "Longitude": -104.923069
+      },
+      "StopTimeMinutes": 5
+    }
+  ],
+  "Route": {
+    "DriveDistance": 54.414,
+    "DriveDistanceUnit": "Kilometer",
+    "DriveTime": 4082,
+    "DriveTimeUnit": "Second",
+    "RouteLegs": [
+      {
+        "Directions": [
+          "Head west on CO-88 / E Arapahoe Rd toward S Paris St",
+          "Take the ramp on the right and follow signs for I-25 North / CO-88 West",
+          "At Exit 199, head on the ramp right and follow signs for CO-88",
+          "Keep right, heading toward DTC Parkway / Syracuse Street",
+          "Bear right onto E Belleview Ave",
+          "Arrive at E Belleview Ave"
+        ],
+        "DriveDistance": 6.863,
+        "DriveTime": 354,
+        "LegBegin": {
+          "Name": "Customer A",
+          "RouteLocation": {
+            "Latitude": 39.595153,
+            "Longitude": -104.84962
+          }
+        },
+        "LegEnd": {
+          "Name": "Customer G",
+          "RouteLocation": {
+            "Latitude": 39.623998,
+            "Longitude": -104.89601
+          }
+        }
+      },
+      {
+        "Directions": [
+          "Head east on E Belleview Ave toward S Ulster St",
+          "Turn right onto S Ulster St",
+          "Turn left onto E Prentice Ave",
+          "Turn right onto Dtc Blvd",
+          "Turn left onto E Orchard Rd",
+          "Turn right onto S Dayton St",
+          "Turn left onto E Peakview Ave",
+          "Continue on S Havana St",
+          "Turn left onto CO-88 / E Arapahoe Rd",
+          "Keep straight to get onto E Arapahoe Rd",
+          "Make a U-turn",
+          "Keep straight to get onto CO-88 / E Arapahoe Rd",
+          "Arrive at CO-88 / E Arapahoe Rd"
+        ],
+        "DriveDistance": 11.824,
+        "DriveTime": 925,
+        "LegBegin": {
+          "Name": "Customer G",
+          "RouteLocation": {
+            "Latitude": 39.623998,
+            "Longitude": -104.89601
+          }
+        },
+        "LegEnd": {
+          "Name": "Customer F",
+          "RouteLocation": {
+            "Latitude": 39.595035,
+            "Longitude": -104.80432
+          }
+        }
+      },
+      {
+        "Directions": [
+          "Head west on CO-88 / E Arapahoe Rd toward S Helena St",
+          "Turn left onto S Jordan Rd",
+          "Road name changes to Jordan Rd",
+          "Turn left onto Recreation Dr",
+          "Keep straight to get onto Recreation Dr",
+          "Turn right to stay on Recreation Dr",
+          "Turn left to stay on Recreation Dr",
+          "Turn right to stay on Recreation Dr",
+          "Turn right onto E Lincoln Ave",
+          "Arrive at E Lincoln Ave"
+        ],
+        "DriveDistance": 9.78,
+        "DriveTime": 702,
+        "LegBegin": {
+          "Name": "Customer F",
+          "RouteLocation": {
+            "Latitude": 39.595035,
+            "Longitude": -104.80432
+          }
+        },
+        "LegEnd": {
+          "Name": "Customer I",
+          "RouteLocation": {
+            "Latitude": 39.534307,
+            "Longitude": -104.790183
+          }
+        }
+      },
+      {
+        "Directions": [
+          "Head west on E Lincoln Ave toward Village Center Dr E",
+          "Turn right onto Zenith Meridian Dr",
+          "Arrive at Zenith Meridian Dr"
+        ],
+        "DriveDistance": 5.833,
+        "DriveTime": 310,
+        "LegBegin": {
+          "Name": "Customer I",
+          "RouteLocation": {
+            "Latitude": 39.534307,
+            "Longitude": -104.790183
+          }
+        },
+        "LegEnd": {
+          "Name": "Customer J",
+          "RouteLocation": {
+            "Latitude": 39.536746,
+            "Longitude": -104.856506
+          }
+        }
+      },
+      {
+        "Directions": [
+          "Head south on Zenith Meridian Dr toward E Lincoln Ave",
+          "Turn right onto E Lincoln Ave",
+          "Turn right onto Havana St",
+          "Arrive at Havana St"
+        ],
+        "DriveDistance": 0.704,
+        "DriveTime": 65,
+        "LegBegin": {
+          "Name": "Customer J",
+          "RouteLocation": {
+            "Latitude": 39.536746,
+            "Longitude": -104.856506
+          }
+        },
+        "LegEnd": {
+          "Name": "Customer H",
+          "RouteLocation": {
+            "Latitude": 39.538203,
+            "Longitude": -104.860557
+          }
+        }
+      },
+      {
+        "Directions": [
+          "Head east on S Meridian Blvd toward S Maroon Circle",
+          "Make a U-turn",
+          "Continue on Havana St",
+          "Turn right onto E Lincoln Ave",
+          "Turn left onto Commons St",
+          "Arrive at Commons St"
+        ],
+        "DriveDistance": 2.247,
+        "DriveTime": 248,
+        "LegBegin": {
+          "Name": "Customer H",
+          "RouteLocation": {
+            "Latitude": 39.538203,
+            "Longitude": -104.860557
+          }
+        },
+        "LegEnd": {
+          "Name": "Customer D",
+          "RouteLocation": {
+            "Latitude": 39.53522,
+            "Longitude": -104.882078
+          }
+        }
+      },
+      {
+        "Directions": [
+          "Head north on Commons St toward E Lincoln Ave",
+          "Arrive at Commons St"
+        ],
+        "DriveDistance": 0,
+        "DriveTime": 0,
+        "LegBegin": {
+          "Name": "Customer D",
+          "RouteLocation": {
+            "Latitude": 39.53522,
+            "Longitude": -104.882078
+          }
+        },
+        "LegEnd": {
+          "Name": "Customer D2",
+          "RouteLocation": {
+            "Latitude": 39.53522,
+            "Longitude": -104.882078
+          }
+        }
+      },
+      {
+        "Directions": [
+          "Head north on Commons St toward E Lincoln Ave",
+          "Turn left onto E Lincoln Ave",
+          "Turn right onto S Yosemite St",
+          "Turn right onto Park Meadows Dr",
+          "Arrive at Park Meadows Dr"
+        ],
+        "DriveDistance": 2.69,
+        "DriveTime": 236,
+        "LegBegin": {
+          "Name": "Customer D2",
+          "RouteLocation": {
+            "Latitude": 39.53522,
+            "Longitude": -104.882078
+          }
+        },
+        "LegEnd": {
+          "Name": "Customer E",
+          "RouteLocation": {
+            "Latitude": 39.555683,
+            "Longitude": -104.882822
+          }
+        }
+      },
+      {
+        "Directions": [
+          "Head northwest on Park Meadows Dr toward S Yosemite St",
+          "Road name changes to S Quebec St",
+          "Turn left onto S Quebec St",
+          "Arrive at S Quebec St"
+        ],
+        "DriveDistance": 2.701,
+        "DriveTime": 235,
+        "LegBegin": {
+          "Name": "Customer E",
+          "RouteLocation": {
+            "Latitude": 39.555683,
+            "Longitude": -104.882822
+          }
+        },
+        "LegEnd": {
+          "Name": "Customer B",
+          "RouteLocation": {
+            "Latitude": 39.557995,
+            "Longitude": -104.906686
+          }
+        }
+      },
+      {
+        "Directions": [
+          "Depart and head (northwest)",
+          "Turn right",
+          "Turn right",
+          "Turn left onto S Quebec St",
+          "Turn left onto E County Line Rd",
+          "Turn right onto S Clarkson St, then immediately turn left onto S Marion Way",
+          "Turn right onto E Phillips Ave, then immediately turn right onto S Clarkson St",
+          "Turn left onto E County Line Rd",
+          "Arrive at E County Line Rd"
+        ],
+        "DriveDistance": 7.931,
+        "DriveTime": 759,
+        "LegBegin": {
+          "Name": "Customer B",
+          "RouteLocation": {
+            "Latitude": 39.557995,
+            "Longitude": -104.906686
+          }
+        },
+        "LegEnd": {
+          "Name": "Customer C",
+          "RouteLocation": {
+            "Latitude": 39.566097,
+            "Longitude": -104.965901
+          }
+        }
+      },
+      {
+        "Directions": [
+          "Depart and head east on E County Line Rd",
+          "Turn left onto S Holly St",
+          "Arrive at S Holly St"
+        ],
+        "DriveDistance": 3.841,
+        "DriveTime": 248,
+        "LegBegin": {
+          "Name": "Customer C",
+          "RouteLocation": {
+            "Latitude": 39.566097,
+            "Longitude": -104.965901
+          }
+        },
+        "LegEnd": {
+          "Name": "Customer K",
+          "RouteLocation": {
+            "Latitude": 39.567421,
+            "Longitude": -104.923044
+          }
+        }
+      }
+    ],
+    "RoutePath": [
+      [
+        39.595152,
+        -104.84962
+      ],
+      [
+        39.595093,
+        -104.874425
+      ],
+      [
+        39.59516,
+        -104.880961
+      ],
+      [
+        39.595108,
+        -104.882143
+      ],
+      [
+        39.594908,
+        -104.883369
+      ],
+      [
+        39.594893,
+        -104.883671
+      ],
+      [
+        39.594992,
+        -104.884168
+      ],
+      [
+        39.595223,
+        -104.884448
+      ],
+      [
+        39.597809,
+        -104.886276
+      ],
+      [
+        39.598504,
+        -104.886863
+      ],
+      [
+        39.598591,
+        -104.886919
+      ],
+      [
+        39.619795,
+        -104.89914
+      ],
+      [
+        39.62051,
+        -104.899371
+      ],
+      [
+        39.622499,
+        -104.900449
+      ],
+      [
+        39.623305,
+        -104.900765
+      ],
+      [
+        39.623446,
+        -104.900741
+      ],
+      [
+        39.623601,
+        -104.900622
+      ],
+      [
+        39.623729,
+        -104.900326
+      ],
+      [
+        39.623763,
+        -104.900041
+      ],
+      [
+        39.623979,
+        -104.897483
+      ],
+      [
+        39.623997,
+        -104.896009
+      ],
+      [
+        39.624005,
+        -104.895209
+      ],
+      [
+        39.623957,
+        -104.895028
+      ],
+      [
+        39.623862,
+        -104.894871
+      ],
+      [
+        39.623639,
+        -104.894735
+      ],
+      [
+        39.621255,
+        -104.89476
+      ],
+      [
+        39.621144,
+        -104.894727
+      ],
+      [
+        39.620885,
+        -104.894541
+      ],
+      [
+        39.620667,
+        -104.894159
+      ],
+      [
+        39.619899,
+        -104.890895
+      ],
+      [
+        39.619837,
+        -104.890331
+      ],
+      [
+        39.619752,
+        -104.890125
+      ],
+      [
+        39.61949,
+        -104.889918
+      ],
+      [
+        39.616644,
+        -104.889925
+      ],
+      [
+        39.615887,
+        -104.889696
+      ],
+      [
+        39.615312,
+        -104.889313
+      ],
+      [
+        39.612062,
+        -104.886138
+      ],
+      [
+        39.611388,
+        -104.885767
+      ],
+      [
+        39.610359,
+        -104.885586
+      ],
+      [
+        39.61025,
+        -104.885519
+      ],
+      [
+        39.609519,
+        -104.885498
+      ],
+      [
+        39.609565,
+        -104.87606
+      ],
+      [
+        39.609317,
+        -104.876061
+      ],
+      [
+        39.602708,
+        -104.876189
+      ],
+      [
+        39.59864,
+        -104.876139
+      ],
+      [
+        39.598633,
+        -104.87588
+      ],
+      [
+        39.598467,
+        -104.874997
+      ],
+      [
+        39.598144,
+        -104.874458
+      ],
+      [
+        39.597535,
+        -104.873765
+      ],
+      [
+        39.597215,
+        -104.872963
+      ],
+      [
+        39.597177,
+        -104.868706
+      ],
+      [
+        39.597123,
+        -104.868627
+      ],
+      [
+        39.596848,
+        -104.867771
+      ],
+      [
+        39.596405,
+        -104.8672
+      ],
+      [
+        39.595911,
+        -104.866895
+      ],
+      [
+        39.59511,
+        -104.866873
+      ],
+      [
+        39.595034,
+        -104.866875
+      ],
+      [
+        39.594937,
+        -104.866872
+      ],
+      [
+        39.594933,
+        -104.866697
+      ],
+      [
+        39.594968,
+        -104.843784
+      ],
+      [
+        39.594853,
+        -104.800163
+      ],
+      [
+        39.594855,
+        -104.799967
+      ],
+      [
+        39.594864,
+        -104.796765
+      ],
+      [
+        39.59493,
+        -104.796766
+      ],
+      [
+        39.595017,
+        -104.796765
+      ],
+      [
+        39.595032,
+        -104.799611
+      ],
+      [
+        39.595038,
+        -104.800171
+      ],
+      [
+        39.595035,
+        -104.80432
+      ],
+      [
+        39.595022,
+        -104.820005
+      ],
+      [
+        39.595024,
+        -104.820629
+      ],
+      [
+        39.595027,
+        -104.821119
+      ],
+      [
+        39.594718,
+        -104.820978
+      ],
+      [
+        39.583489,
+        -104.814367
+      ],
+      [
+        39.582938,
+        -104.813859
+      ],
+      [
+        39.582484,
+        -104.813292
+      ],
+      [
+        39.580467,
+        -104.809609
+      ],
+      [
+        39.580016,
+        -104.809007
+      ],
+      [
+        39.579477,
+        -104.808528
+      ],
+      [
+        39.57881,
+        -104.808162
+      ],
+      [
+        39.574899,
+        -104.806669
+      ],
+      [
+        39.571296,
+        -104.805142
+      ],
+      [
+        39.570433,
+        -104.804639
+      ],
+      [
+        39.565892,
+        -104.801291
+      ],
+      [
+        39.565831,
+        -104.801246
+      ],
+      [
+        39.559028,
+        -104.795913
+      ],
+      [
+        39.558596,
+        -104.79572
+      ],
+      [
+        39.555882,
+        -104.795202
+      ],
+      [
+        39.551605,
+        -104.793548
+      ],
+      [
+        39.551077,
+        -104.79347
+      ],
+      [
+        39.548994,
+        -104.793452
+      ],
+      [
+        39.546987,
+        -104.793467
+      ],
+      [
+        39.545777,
+        -104.793586
+      ],
+      [
+        39.536776,
+        -104.793517
+      ],
+      [
+        39.536771,
+        -104.793338
+      ],
+      [
+        39.53677,
+        -104.793007
+      ],
+      [
+        39.536787,
+        -104.787645
+      ],
+      [
+        39.536723,
+        -104.787667
+      ],
+      [
+        39.536524,
+        -104.787654
+      ],
+      [
+        39.536052,
+        -104.787397
+      ],
+      [
+        39.536143,
+        -104.787037
+      ],
+      [
+        39.536193,
+        -104.786356
+      ],
+      [
+        39.535994,
+        -104.785911
+      ],
+      [
+        39.535962,
+        -104.785949
+      ],
+      [
+        39.535697,
+        -104.78626
+      ],
+      [
+        39.535317,
+        -104.786477
+      ],
+      [
+        39.534563,
+        -104.786568
+      ],
+      [
+        39.534564,
+        -104.786705
+      ],
+      [
+        39.534539,
+        -104.788365
+      ],
+      [
+        39.534306,
+        -104.790183
+      ],
+      [
+        39.533122,
+        -104.798534
+      ],
+      [
+        39.533056,
+        -104.799914
+      ],
+      [
+        39.53311,
+        -104.800887
+      ],
+      [
+        39.533298,
+        -104.802011
+      ],
+      [
+        39.533543,
+        -104.802817
+      ],
+      [
+        39.5362,
+        -104.809108
+      ],
+      [
+        39.536535,
+        -104.81041
+      ],
+      [
+        39.53663,
+        -104.811385
+      ],
+      [
+        39.536399,
+        -104.829926
+      ],
+      [
+        39.536337,
+        -104.856508
+      ],
+      [
+        39.536465,
+        -104.856501
+      ],
+      [
+        39.536724,
+        -104.856504
+      ],
+      [
+        39.536746,
+        -104.856505
+      ],
+      [
+        39.536724,
+        -104.856504
+      ],
+      [
+        39.536465,
+        -104.856501
+      ],
+      [
+        39.536337,
+        -104.856508
+      ],
+      [
+        39.536334,
+        -104.857287
+      ],
+      [
+        39.536311,
+        -104.861286
+      ],
+      [
+        39.536406,
+        -104.861285
+      ],
+      [
+        39.537083,
+        -104.861454
+      ],
+      [
+        39.537832,
+        -104.861242
+      ],
+      [
+        39.538051,
+        -104.861021
+      ],
+      [
+        39.538203,
+        -104.860557
+      ],
+      [
+        39.538256,
+        -104.860217
+      ],
+      [
+        39.538297,
+        -104.860062
+      ],
+      [
+        39.538359,
+        -104.860088
+      ],
+      [
+        39.538414,
+        -104.860111
+      ],
+      [
+        39.538351,
+        -104.860473
+      ],
+      [
+        39.538332,
+        -104.860578
+      ],
+      [
+        39.538296,
+        -104.86078
+      ],
+      [
+        39.53821,
+        -104.861274
+      ],
+      [
+        39.538065,
+        -104.861505
+      ],
+      [
+        39.536916,
+        -104.861926
+      ],
+      [
+        39.536811,
+        -104.861932
+      ],
+      [
+        39.536585,
+        -104.86192
+      ],
+      [
+        39.536381,
+        -104.862101
+      ],
+      [
+        39.536316,
+        -104.862305
+      ],
+      [
+        39.536287,
+        -104.863508
+      ],
+      [
+        39.536298,
+        -104.870268
+      ],
+      [
+        39.536403,
+        -104.874596
+      ],
+      [
+        39.536381,
+        -104.882084
+      ],
+      [
+        39.536379,
+        -104.882196
+      ],
+      [
+        39.535678,
+        -104.882192
+      ],
+      [
+        39.53522,
+        -104.882078
+      ],
+      [
+        39.53522,
+        -104.882078
+      ],
+      [
+        39.536254,
+        -104.882084
+      ],
+      [
+        39.536272,
+        -104.882084
+      ],
+      [
+        39.536381,
+        -104.882084
+      ],
+      [
+        39.536365,
+        -104.884468
+      ],
+      [
+        39.536378,
+        -104.885379
+      ],
+      [
+        39.536383,
+        -104.885473
+      ],
+      [
+        39.545245,
+        -104.885406
+      ],
+      [
+        39.547103,
+        -104.885627
+      ],
+      [
+        39.547706,
+        -104.885609
+      ],
+      [
+        39.548932,
+        -104.885406
+      ],
+      [
+        39.552291,
+        -104.885429
+      ],
+      [
+        39.553209,
+        -104.885302
+      ],
+      [
+        39.553738,
+        -104.885087
+      ],
+      [
+        39.554378,
+        -104.884664
+      ],
+      [
+        39.555198,
+        -104.883917
+      ],
+      [
+        39.555301,
+        -104.883824
+      ],
+      [
+        39.555918,
+        -104.883253
+      ],
+      [
+        39.555683,
+        -104.882822
+      ],
+      [
+        39.55627,
+        -104.883919
+      ],
+      [
+        39.557054,
+        -104.885022
+      ],
+      [
+        39.557611,
+        -104.885403
+      ],
+      [
+        39.55874,
+        -104.885696
+      ],
+      [
+        39.559205,
+        -104.886077
+      ],
+      [
+        39.559505,
+        -104.886583
+      ],
+      [
+        39.559898,
+        -104.888104
+      ],
+      [
+        39.560283,
+        -104.889031
+      ],
+      [
+        39.560678,
+        -104.889569
+      ],
+      [
+        39.561707,
+        -104.890481
+      ],
+      [
+        39.562184,
+        -104.891023
+      ],
+      [
+        39.562661,
+        -104.891878
+      ],
+      [
+        39.562953,
+        -104.892707
+      ],
+      [
+        39.56311,
+        -104.893841
+      ],
+      [
+        39.562912,
+        -104.897826
+      ],
+      [
+        39.562838,
+        -104.898177
+      ],
+      [
+        39.562512,
+        -104.898836
+      ],
+      [
+        39.561037,
+        -104.901359
+      ],
+      [
+        39.560728,
+        -104.902067
+      ],
+      [
+        39.560609,
+        -104.903046
+      ],
+      [
+        39.560683,
+        -104.904315
+      ],
+      [
+        39.560686,
+        -104.904417
+      ],
+      [
+        39.560685,
+        -104.904507
+      ],
+      [
+        39.560563,
+        -104.904513
+      ],
+      [
+        39.559737,
+        -104.904661
+      ],
+      [
+        39.558972,
+        -104.905126
+      ],
+      [
+        39.558404,
+        -104.90576
+      ],
+      [
+        39.557995,
+        -104.906686
+      ],
+      [
+        39.558665,
+        -104.907106
+      ],
+      [
+        39.558947,
+        -104.906343
+      ],
+      [
+        39.559108,
+        -104.905908
+      ],
+      [
+        39.559031,
+        -104.905846
+      ],
+      [
+        39.558682,
+        -104.905405
+      ],
+      [
+        39.55863,
+        -104.905325
+      ],
+      [
+        39.558581,
+        -104.905249
+      ],
+      [
+        39.558788,
+        -104.905039
+      ],
+      [
+        39.559392,
+        -104.904605
+      ],
+      [
+        39.560208,
+        -104.904342
+      ],
+      [
+        39.565896,
+        -104.904289
+      ],
+      [
+        39.565976,
+        -104.904287
+      ],
+      [
+        39.566062,
+        -104.904284
+      ],
+      [
+        39.566103,
+        -104.908977
+      ],
+      [
+        39.566141,
+        -104.929036
+      ],
+      [
+        39.566084,
+        -104.937539
+      ],
+      [
+        39.566202,
+        -104.95979
+      ],
+      [
+        39.566126,
+        -104.971544
+      ],
+      [
+        39.566152,
+        -104.971618
+      ],
+      [
+        39.566407,
+        -104.97184
+      ],
+      [
+        39.566639,
+        -104.971827
+      ],
+      [
+        39.566657,
+        -104.972776
+      ],
+      [
+        39.567157,
+        -104.972785
+      ],
+      [
+        39.567677,
+        -104.972786
+      ],
+      [
+        39.567668,
+        -104.971806
+      ],
+      [
+        39.56743,
+        -104.971804
+      ],
+      [
+        39.566639,
+        -104.971827
+      ],
+      [
+        39.566528,
+        -104.971833
+      ],
+      [
+        39.566407,
+        -104.97184
+      ],
+      [
+        39.566303,
+        -104.971843
+      ],
+      [
+        39.566032,
+        -104.971835
+      ],
+      [
+        39.566097,
+        -104.9659
+      ],
+      [
+        39.566103,
+        -104.957971
+      ],
+      [
+        39.565951,
+        -104.940235
+      ],
+      [
+        39.566027,
+        -104.93473
+      ],
+      [
+        39.566,
+        -104.923108
+      ],
+      [
+        39.565999,
+        -104.922953
+      ],
+      [
+        39.566291,
+        -104.922955
+      ],
+      [
+        39.566386,
+        -104.923037
+      ],
+      [
+        39.567421,
+        -104.923043
+      ]
+    ]
+  }
+}
